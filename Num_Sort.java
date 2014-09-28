@@ -45,7 +45,6 @@ public class Sort3{
 				small = tempSmall;
 			}
 		}
-
 		System.out.printf("%n%.3f, %.3f, %.3f", small, middle, big);
 	}
 }
